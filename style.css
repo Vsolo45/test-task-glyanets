@@ -15,7 +15,7 @@ body {
 }
 
 .first-screen {
-    background-image: url('./first-screen-bg.png');
+    background-image: url('./assets/first-screen-bg.png');
 }
 
 header {
@@ -82,7 +82,7 @@ header .contacts h3 {
     padding-left: 75px;
     padding-top: 97px;
     background-repeat: no-repeat;
-    background-image: url('./main-block-left.png');
+    background-image: url('./assets/main-block-left.png');
 }
 
 .main-block-left h3 {
@@ -136,7 +136,7 @@ header .contacts h3 {
 .main-block-right {
     background-position-x: right;
     height: 856px;
-    background-image: url('./main-block-right.png');
+    background-image: url('./assets/main-block-right.png');
     background-repeat: no-repeat;
 }
 
